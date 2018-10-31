@@ -53,11 +53,20 @@ ul{
 
 nav a{
     color:white;
+    font-family: 'Ubuntu';
+    font-size: 1.5em;
+    text-decoration: none;
+    padding-right:10px;
 }
 
 li{
     color:white;
 }
+
 #content{
     text-align: center;
+}
+
+nav a:hover, #currentPage{
+    color:red;
 }
