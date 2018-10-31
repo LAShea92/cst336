@@ -7,6 +7,11 @@ header, main, nav, footer{
     text-align: center;
 }
 
+h1{
+    color:white;
+    font-family: 'Ubuntu';
+}
+
 #me{
     float:left;
 }
@@ -45,13 +50,14 @@ ul{
 .hobby{
     color: yellow;
 }
+
 nav a{
     color:white;
 }
-h1{
-    color:white;
-    font-family: serif;
-}
+
 li{
     color:white;
+}
+#content{
+    text-align: center;
 }
