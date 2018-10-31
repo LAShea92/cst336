@@ -1,0 +1,11 @@
+body{
+    background-color:black;
+    color:gray;
+}
+
+header, main, nav, footer{
+    text-align: center;
+}
+figure, div{
+    float:left;
+}
