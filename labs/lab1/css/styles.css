@@ -6,6 +6,11 @@ body{
 header, main, nav, footer{
     text-align: center;
 }
-figure, div{
+
+#me{
     float:left;
+}
+
+footer{
+    clear:left;
 }
